@@ -20,7 +20,7 @@ student_number = wagon_sort(students)
 
 puts "Congratulations! Your Wagon has #{student_number.size} students:"
 if student_number.size >= 2
-  puts "#{student_number[0..-2].join(',')} and #{student_number.last}"
+  puts "#{student_number[0..-2].join(', ')} and #{student_number.last}"
 else
   puts student_number.first
 end
