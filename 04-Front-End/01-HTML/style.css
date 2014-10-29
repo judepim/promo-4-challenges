@@ -1,0 +1,32 @@
+body{
+  font-family: Arial;
+}
+
+h1{
+  font-family: Courier;
+  color: red;
+}
+
+#header{
+  border: 1px solid red;
+  padding: 20px;
+  margin: 10px;
+  text-align: center;
+}
+
+#aside-nav{
+  width: 20%;
+  float: left;
+}
+
+#container{
+  float: right;
+  width: 75%;
+  padding: 20px;
+  border-left: 1px solid lightgrey;
+}
+
+#footer{
+  clear: both;
+  border-top: 1px solid lightgrey;
+}
