@@ -1,0 +1,112 @@
+.navbar{
+position: fixed
+}
+ .white {
+  color:white;
+ }
+
+.banner{
+  background-image: url('http://lorempixel.com/1600/500/nature');
+  padding-top: 150px;
+  padding-bottom: 150px;
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold
+}
+
+.transport{
+  background-size: 20px;
+  color: black;
+  font: helvetica;
+}
+
+.transport img {
+  height: 100px;
+  width: 100px;
+}
+
+.footer{
+  background-color: black;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font: helvetica;
+  font-weight: bold
+}
+
+.contact-form{
+ padding-top: 150px;
+  padding-bottom: 150px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+}
+
+.navigation-map{
+  padding-top: 100px;
+  padding-bottom: 100px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold
+}
+
+.onlymap
+{
+ height: 100px;
+  width: 100px;
+}
+
+.navbar-transparent {
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+.navbar-transparent .navbar-brand,
+.navbar-transparent .navbar-nav > li > a {
+  color: white;
+  line-height: 50px;
+}
+
+.navbar-transparent .navbar-nav > li > a:hover,
+.navbar-transparent .navbar-nav > li > a:active,
+.navbar-transparent .navbar-nav > li > a:focus,
+.navbar-transparent .navbar-nav > .open > a,
+.navbar-transparent .navbar-nav > .open > a:hover,
+.navbar-transparent .navbar-nav > .open > a:focus {
+  color: white;
+  background-color: rgba(0, 0, 0, 0.1);
+}
+
+.navbar-transparent .navbar-brand:hover,
+.navbar-transparent .navbar-brand:active,
+.navbar-transparent .navbar-brand:focus {
+  color: white;
+}
+IMPORTANT IDEAS
+
+Your style after Bootstrap in the <head>
+Add new classes OR over-ride Bootstrap classes
+You have to be more specific than Bootstrap with your CSS selectors
+DESIGN TOOLS
+
+FONTS
+
+Google Fonts
+FontFace Ninja
+
+Example
+Open-Sans for basic texts
+Elegant no serif font for h1, h2 like PillsGothic
+Museo-Slab for secondary titles (h3, h4,..)
+3 fonts max !
+COLORS
+
+Choose a good color scheme with kuler
+Use colorzilla to pick nice colors on-the-fly.
+You can pick them in the trendy flat colors :)
+
+ICONS
+
+Utilitary icons with Fontawesome
+For personalized icons, use TheNounProject
+TheNounProject is cool, it gives you SVG icons that you can customize!
+YOUR OBJECTIVE
+
+IceMe final version
+1 - 6

@@ -2,4 +2,13 @@
   margin: 0 auto;
   width: 720px;
 	font-family: 'Open Sans', sans-serif;
+  background: beige;
+  font-weight: bold;
 }
+
+.post {
+    display: block;
+    width: 0px;
+}
+
+
